@@ -10,4 +10,5 @@ openai == 1.17.1
 transformers == 4.39.3
 faiss-cpu == 1.8.0
 weaviate-client == 4.5.0
+qdrant-client == 1.8.2
 # pip install "langserve[all]"
